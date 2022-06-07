@@ -13,6 +13,7 @@
 
 ## O projeto:
 Você foi encarregado de desenvolver um sistema de gerenciamento de mídias dos imóveis dos clientes ImobiBrasil. Essas mídias podem ser imagens, documentos, Arquivos PDF, Word e etc. As mídias podem ou não ser anexadas a um determinado imóvel. Por exemplo: um imóvel pode ter um comprovante de locação, uma escritura ou uma foto da planta da casa. 
+
 Importante: de última hora recebemos uma demanda de que os clientes vão precisar de muito espaço e algumas funcionalidades de gerenciamento. Por isso de uma olhada no tópico de funcionalidades extras, se você conseguir desenvolver essas funcionalidades extras será um baita diferencial.
 
 
