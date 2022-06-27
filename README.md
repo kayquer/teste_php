@@ -43,7 +43,7 @@ Abaixo os requisitos da funcionalidade:
 - midias
 
 
-## Funcionalidades Extras:
+## Funcionalidades Extras (Não obrigatório):
 - Armazenar os arquivos em uma Cloud de objetos como AWS S3, Google Cloud Storage e Linode Object Storage por exemplo.
 - Exibir um botão para compartilhar os arquivos.
 - Bloquear e liberar o acesso externo aos arquivos
