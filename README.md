@@ -22,7 +22,6 @@ Abaixo os requisitos da funcionalidade:
 
 - Deve ter a listagem com busca por nome do arquivo, upload de arquivos, edição do nome, um select para anexar o arquivo a um imóvel e por fim a exclusão do arquivo.
 - Campos: ID, ID imovel, nome do arquivo, caminho do arquivo,  data de upload.
-- Campos obrigatórios: Nome e E-mail.
 - Um arquivo de mídia pode estar ligado a um imóvel
 
 ### Imóveis
